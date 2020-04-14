@@ -1,0 +1,24 @@
+{
+  "name": "simple-sam-app",
+  "version": "1.0.0",
+  "description": "Simple sam app to test VPC and Cognito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasbn/simple-sam-app.git"
+  },
+  "author": "Matías Barrios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasbn/simple-sam-app/issues"
+  },
+  "homepage": "https://github.com/matiasbn/simple-sam-app#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
